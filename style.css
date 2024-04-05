@@ -189,9 +189,8 @@ p a{
 
 @media screen and (max-width: 600px) {
     .textbox {
-        margin-top: 100px;
+        margin-top: 70px;
         margin-left: 50px;
-
         
     }
     .textbox h1 {
@@ -203,14 +202,28 @@ p a{
     }
     .container {
         margin-top: 50px;
-        margin-right: 18px;
+        margin-right: 45px;
         width: 250px;
-        height: 250px;
+        height: 100px;
     }
     .credential {
-        width: 250px;
+        width: 200px;
+        height: 10px;
     }
     .btn{
-        padding: 5px;
+        padding: 7px;
+        width: 80%;
+        margin-left: 22px;
+        font-size: 15px;
+    }
+
+    .login{
+        font-size: 15px;
+        padding: 12px;
+        width: 90%;
+    }
+
+    p{
+        font-size: 13px;
     }
 }
